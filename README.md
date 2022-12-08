@@ -6,8 +6,8 @@ Bienvenidos y bienvenidas a mi perfil de github
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-🎓&nbsp; Soy Ingeniero en Automatización de la Universidad Jorge Tadeo Lozano de Bogotá \
-💻&nbsp; Actualmente me desempeño como automatizador de procesos en [Quipux](https://www.quipux.com/)\
+🎓&nbsp; Soy Ingeniero en Automatización \
+💻&nbsp; Actualmente me desempeño como automatizador de procesos \
 🤖&nbsp; Creo y automatizo procesos con el lenguaje de programación Python \
 👨🏿‍💻&nbsp; Me encuentro en proceso de aprendizaje de Backend con FastAPI y más adelante con Go 😏 \
 🧠&nbsp; Me encataría aprender y explorar sobre otras áreas de la tecnología como la Inteligencia Artificial y Servicios en la nube \
