@@ -19,6 +19,9 @@ Bienvenidos y bienvenidas a mi perfil de github
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### Contacto
+<a href="https://www.linkedin.com/in/carlos-damian-loaiza-artunduaga-8192331bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+
 <!--
 **CarlosDLA26/CarlosDLA26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
